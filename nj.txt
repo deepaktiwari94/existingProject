@@ -1,0 +1,7 @@
+TestUser
+
+TestUser@123
+
+mongodb+srv://TestUser:<password>@mongodb.cpvqi.mongodb.net/?retryWrites=true&w=majority
+
+164.100.146.66/32
